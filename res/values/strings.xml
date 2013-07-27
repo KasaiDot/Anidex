@@ -4,6 +4,7 @@
     <string name="app_name">Anidex</string>
     <string name="action_settings">Settings</string>
     <string name="text_schedule">Get Schedule!</string>
-    <string name="desc_splash">Splash image of logo</string>
+    <string name="desc_imagebutton_schedule">Get schedule calendar button</string>
+    <string name="desc_image_japanese_banner_schedule">A banner with the word schedule in Japanese</string>
 
 </resources>
