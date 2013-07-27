@@ -20,15 +20,14 @@
         android:text="@string/text_schedule" 
         android:onClick="getSchedule"/>
 
-    <ImageView
-        android:id="@+id/image_splash"
+    <ImageButton
+        android:id="@+id/imagebutton_schedule"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginBottom="110dp"
-        android:layout_marginTop="-2dp"
-        android:src="@drawable/icon_image_big" 
-        android:contentDescription="@string/desc_splash"/>
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp"
+        android:src="@drawable/button_schedule_hdpi_scale" 
+        android:onClick="getSchedule"/>
 
 </RelativeLayout>
